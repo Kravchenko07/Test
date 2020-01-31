@@ -1,0 +1,53 @@
+<div class="main-content">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-md-12">
+          <div class="card">
+            <div class="card-header card-header-danger">
+              <h4 class="card-title"> Edit Student</h4>
+            </div>
+            <div class="card-body">
+              <form>
+                <div class="row">
+                  <div class="col-md-6">
+                    <mat-form-field class="example-full-width">
+                      <input matInput [(ngModel)]="data.firstName" placeholder="FirstName" name="firstName" type="text">
+                    </mat-form-field>
+                  </div>
+                  <div class="col-md-6">
+                    <mat-form-field class="example-full-width">
+                      <input matInput [(ngModel)]="data.lastName" placeholder="LastName" name="lastName" type="text">
+                    </mat-form-field>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-6">
+                    <mat-form-field class="example-full-width">
+                      <input matInput [(ngModel)]="data.username" placeholder="Username" name="username" type="text">
+                    </mat-form-field>
+                  </div>
+                  <div class="col-md-6">
+                    <mat-form-field class="example-full-width">
+                      <input matInput [(ngModel)]="data.age" placeholder="Age" name="age" type="text">
+                    </mat-form-field>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-md-12">
+                    <mat-form-field class="example-full-width">
+                      <input matInput [(ngModel)]="data.career" placeholder="Career" name="career" type="text">
+                    </mat-form-field>
+                  </div>
+                </div>
+                <button mat-raised-button type="submit" (click)="editStudent()"
+                class="btn btn-success pull-right">Save</button>
+                <button mat-raised-button type="submit" (click)="cancelEditStudent()"
+                class="btn btn-danger pull-right">Cancel</button>
+                <div class="clearfix"></div>
+              </form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>

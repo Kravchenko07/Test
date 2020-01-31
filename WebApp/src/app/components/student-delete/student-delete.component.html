@@ -1,0 +1,11 @@
+<h1 mat-dialog-title>Delete Student</h1>
+<div mat-dialog-content>
+    <p> Are you sure to delete the student "{{data.firstName}} {{data.lastName}}"</p>
+</div>
+<div mat-dialog-actions>
+    <button mat-raised-button type="submit" (click)="cancelDelete()"
+    class="btn btn-danger pull-right">Cancel</button>
+    <button mat-raised-button type="submit" (click)="acceptDelete()"
+    class="btn btn-success pull-right">Save</button>
+  <div class="clearfix"></div>
+</div>

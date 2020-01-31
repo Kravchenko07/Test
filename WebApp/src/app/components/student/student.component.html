@@ -1,0 +1,82 @@
+<div class="main-content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12">
+                <button type="button" class="btn btn-danger btn-round" mdbBtn color="default" rounded="true"
+                    data-toggle="modal" data-target="#basicExample" (click)="createStudent()" mdbWavesEffect>Add Student
+                </button>
+                <div class="card card-plain">
+                    <div class="card-header card-header-danger">
+                        <h4 class="card-title mt-0"> Students list</h4>
+
+                    </div>
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <thead class="">
+                                    <th>
+                                        ID
+                                    </th>
+                                    <th>
+                                        UserName
+                                    </th>
+                                    <th>
+                                        FirstName
+                                    </th>
+                                    <th>
+                                        LastName
+                                    </th>
+                                    <th>
+                                        Age
+                                    </th>
+                                    <th>
+                                        Career
+                                    </th>
+                                </thead>
+                                <tbody *ngFor="let student of students; let i=index;">
+                                    <tr>
+                                        <td>
+                                            {{student.id || ''}}
+                                        </td>
+                                        <td>
+                                            {{student.username}}
+                                        </td>
+                                        <td>
+                                            {{student.firstName}}
+                                        </td>
+                                        <td>
+                                            {{student.lastName}}
+                                        </td>
+                                        <td>
+                                            {{student.age}}
+                                        </td>
+                                        <td>
+                                            {{student.career}}
+                                        </td>
+                                        <td class="td-actions text-right">
+                                           
+                                            <button mat-raised-button type="button" (click)="updateStudent(student)" matTooltip="Edit"
+                                                [matTooltipPosition]="'above'"
+                                                class="btn btn-primary btn-link btn-sm btn-just-icon">
+                                                <i class="material-icons">edit</i>
+                                            </button>
+
+                                        </td>
+                                        <td class="td-actions text-right">
+                                            <button mat-raised-button type="button" (click)="deleteStudent(student)" matTooltip="Delete"
+                                                [matTooltipPosition]="'above'"
+                                                class="btn btn-danger btn-link btn-sm btn-just-icon">
+                                                <i class="material-icons">delete</i>
+                                            </button>
+                                        </td>
+
+                                    </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,48 @@
+C:\Users\duran.robert\Documents\Visual Studio 2019\Projects\Nueva carpeta\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\duran.robert\Documents\Visual Studio 2019\Projects\Nueva carpeta\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\duran.robert\Documents\Visual Studio 2019\Projects\Nueva carpeta\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\duran.robert\Documents\Visual Studio 2019\Projects\Nueva carpeta\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\WebApiStudents.deps.json
+C:\Users\duran.robert\Documents\Visual Studio 2019\Projects\Nueva carpeta\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\WebApiStudents.runtimeconfig.json
+C:\Users\duran.robert\Documents\Visual Studio 2019\Projects\Nueva carpeta\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\WebApiStudents.runtimeconfig.dev.json
+C:\Users\duran.robert\Documents\Visual Studio 2019\Projects\Nueva carpeta\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\WebApiStudents.dll
+C:\Users\duran.robert\Documents\Visual Studio 2019\Projects\Nueva carpeta\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\WebApiStudents.pdb
+C:\Users\duran.robert\Documents\Visual Studio 2019\Projects\Nueva carpeta\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.RazorAssemblyInfo.cache
+C:\Users\duran.robert\Documents\Visual Studio 2019\Projects\Nueva carpeta\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.RazorAssemblyInfo.cs
+C:\Users\duran.robert\Documents\Visual Studio 2019\Projects\Nueva carpeta\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.AssemblyInfoInputs.cache
+C:\Users\duran.robert\Documents\Visual Studio 2019\Projects\Nueva carpeta\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.AssemblyInfo.cs
+C:\Users\duran.robert\Documents\Visual Studio 2019\Projects\Nueva carpeta\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.RazorTargetAssemblyInfo.cache
+C:\Users\duran.robert\Documents\Visual Studio 2019\Projects\Nueva carpeta\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.dll
+C:\Users\duran.robert\Documents\Visual Studio 2019\Projects\Nueva carpeta\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.pdb
+C:\Users\duran.robert\Documents\Visual Studio 2019\Projects\Nueva carpeta\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.csprojAssemblyReference.cache
+C:\Users\duran.robert\Documents\Robert Duran\Test\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\duran.robert\Documents\Robert Duran\Test\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\duran.robert\Documents\Robert Duran\Test\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\duran.robert\Documents\Robert Duran\Test\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\WebApiStudents.deps.json
+C:\Users\duran.robert\Documents\Robert Duran\Test\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\WebApiStudents.runtimeconfig.json
+C:\Users\duran.robert\Documents\Robert Duran\Test\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\WebApiStudents.runtimeconfig.dev.json
+C:\Users\duran.robert\Documents\Robert Duran\Test\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\WebApiStudents.dll
+C:\Users\duran.robert\Documents\Robert Duran\Test\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\WebApiStudents.pdb
+C:\Users\duran.robert\Documents\Robert Duran\Test\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.csprojAssemblyReference.cache
+C:\Users\duran.robert\Documents\Robert Duran\Test\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.RazorAssemblyInfo.cache
+C:\Users\duran.robert\Documents\Robert Duran\Test\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.RazorAssemblyInfo.cs
+C:\Users\duran.robert\Documents\Robert Duran\Test\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.AssemblyInfoInputs.cache
+C:\Users\duran.robert\Documents\Robert Duran\Test\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.AssemblyInfo.cs
+C:\Users\duran.robert\Documents\Robert Duran\Test\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.RazorTargetAssemblyInfo.cache
+C:\Users\duran.robert\Documents\Robert Duran\Test\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.dll
+C:\Users\duran.robert\Documents\Robert Duran\Test\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.pdb
+C:\Users\duran.robert\Desktop\Test\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\duran.robert\Desktop\Test\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\duran.robert\Desktop\Test\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\duran.robert\Desktop\Test\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\WebApiStudents.deps.json
+C:\Users\duran.robert\Desktop\Test\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\WebApiStudents.runtimeconfig.json
+C:\Users\duran.robert\Desktop\Test\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\WebApiStudents.runtimeconfig.dev.json
+C:\Users\duran.robert\Desktop\Test\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\WebApiStudents.dll
+C:\Users\duran.robert\Desktop\Test\WebApiStudents\WebApiStudents\bin\Debug\netcoreapp2.1\WebApiStudents.pdb
+C:\Users\duran.robert\Desktop\Test\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.csprojAssemblyReference.cache
+C:\Users\duran.robert\Desktop\Test\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.RazorAssemblyInfo.cache
+C:\Users\duran.robert\Desktop\Test\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.RazorAssemblyInfo.cs
+C:\Users\duran.robert\Desktop\Test\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.AssemblyInfoInputs.cache
+C:\Users\duran.robert\Desktop\Test\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.AssemblyInfo.cs
+C:\Users\duran.robert\Desktop\Test\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.RazorTargetAssemblyInfo.cache
+C:\Users\duran.robert\Desktop\Test\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.dll
+C:\Users\duran.robert\Desktop\Test\WebApiStudents\WebApiStudents\obj\Debug\netcoreapp2.1\WebApiStudents.pdb
